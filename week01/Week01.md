@@ -16,6 +16,7 @@ Uma igualdade linear em termos de variáveis x_1, x_2, \ldots, x_n:
   
 Uma desigualdade linear em termos de variáveis x_1, x_2, \ldots, x_n :
  - pode ser escrita na forma a_1 x_1 + a_2 x_2 + \ldots + a_n x_n *\leq* b ou a_1 x_1 + a_2 x_2 + \ldots + a_n x_n *\geq* b, em que a_i e b são constantes
+> Nota: Usamos sempre espacos infintamente diviseis, por isso nao faz sentido a restricao ser < ou > (em contrario de <= e >=)
   
 Num problema de otimização linear: 
  - tenta-se *maximizar (ou minimizar) uma função* linear das variáveis de decisão, sujeito a uma série de equações ou desigualdades lineares, *em que cada variável pode assumir valores de um conjunto contínuo* especificado
