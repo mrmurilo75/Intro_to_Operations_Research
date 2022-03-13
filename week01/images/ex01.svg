@@ -1,35 +1,36 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-
  <g>
   <title>Layer 1</title>
-  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="576" x2="68" y1="9" x1="69" stroke="#000" fill="none"/>
-  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="524" x2="787" y1="523" x1="17" fill="none"/>
-  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_10" y2="485" x2="74" y1="484" x1="61" stroke="#000" fill="none"/>
-  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_11" y2="438" x2="76" y1="438" x1="58" stroke="#000" fill="none"/>
-  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_12" y2="392" x2="74" y1="393" x1="56" stroke="#000" fill="none"/>
-  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_13" y2="347" x2="75" y1="347" x1="59" stroke="#000" fill="none"/>
-  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_14" y2="305" x2="78" y1="305" x1="62" stroke="#000" fill="none"/>
-  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_16" y2="263" x2="77" y1="264" x1="62" stroke="#000" fill="none"/>
-  <line transform="rotate(46.6337 163.281 398.859)" stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_19" y2="392.53345" x2="372.95283" y1="405.18527" x1="-46.39084" fill="none"/>
-  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_22" y="461" x="241" stroke="#000" fill="#000000">2. r1: a + b = 5</text>
-  <path transform="rotate(-138.287 226.287 474.454)" stroke="#000" id="svg_23" d="m220.28692,474.43197l6,-8.97926l6,8.97926l-3,0l0,9.02247l-6,0l0,-9.02247l-3,0z" fill="none"/>
-  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_28" y2="534" x2="111" y1="520" x1="112" stroke="#000" fill="none"/>
-  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_29" y2="533" x2="151" y1="518" x1="150" stroke="#000" fill="none"/>
-  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_30" y2="531" x2="195" y1="520" x1="199" stroke="#000" fill="none"/>
-  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_31" y2="536" x2="249" y1="517" x1="251" stroke="#000" fill="none"/>
-  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_32" y2="540" x2="293" y1="517" x1="289" stroke="#000" fill="none"/>
-  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_33" y="131" x="30" fill="#000">A</text>
-  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_34" y="542" x="718" fill="#000">B</text>
-  <line id="svg_43" y2="345" x2="584" y1="344" x1="53" stroke="#000" fill="none"/>
-  <line id="svg_44" y2="349" x2="585" y1="332" x1="569" stroke="#000" fill="none"/>
-  <line id="svg_45" y2="347" x2="584" y1="362" x1="568" stroke="#000" fill="none"/>
-  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_49" y="338" x="610" stroke-width="0" stroke="#000000" fill="#000000">2. r2: A &lt;= 3</text>
-  <path transform="rotate(-179.882 516.97 355.936)" stroke="#000" id="svg_50" d="m510.9699,355.9038l6,-13.46556l5.99999,13.46556l-2.99999,0l0,13.53036l-6,0l0,-13.53036l-3,0z" fill="none"/>
-  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_53" y="107" x="327" stroke-width="0" stroke="#000000" fill="#000000">1. lucro: 4*a + 3.5*b</text>
-  <line stroke-dasharray="5,5" stroke-width="2" id="svg_58" y2="411" x2="18" y1="551" x1="290" stroke="#000000" fill="none"/>
-  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_59" y="571" x="117" fill="#000000">3. isolucro em (lucro: 4a + 3.5b) = 14 | (a,b) = (0,4) = (2,0)</text>
-  <line stroke-dasharray="5,5" stroke-width="2" id="svg_61" y2="290" x2="4" y1="430" x1="276" stroke="#000000" fill="none"/>
-  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="2" id="svg_62" y="293" x="113" fill="#000000">4. lucro otimo em (a,b) = (3, 2)</text>
-  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_63" y="44" x="105" stroke-width="2" fill="#000">0. Definir variaveis = A e B</text>
+  <rect stroke="#ffffff" id="svg_9" height="489" width="687.00001" y="52" x="53" stroke-width="99" fill="#ffffff"/>
+  <line fill="none" stroke="#000" x1="69" y1="9" x2="68" y2="576" id="svg_1" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" x1="17" y1="523" x2="787" y2="524" id="svg_2" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#000"/>
+  <line fill="none" stroke="#000" x1="61" y1="484" x2="74" y2="485" id="svg_10" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke="#000" x1="58" y1="438" x2="76" y2="438" id="svg_11" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke="#000" x1="56" y1="393" x2="74" y2="392" id="svg_12" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke="#000" x1="59" y1="347" x2="75" y2="347" id="svg_13" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke="#000" x1="62" y1="305" x2="78" y2="305" id="svg_14" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke="#000" x1="62" y1="264" x2="77" y2="263" id="svg_16" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" x1="-46.39084" y1="405.18527" x2="372.95283" y2="392.53345" id="svg_19" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#000" transform="rotate(46.6337 163.281 398.859)"/>
+  <text fill="#000000" stroke="#000" x="241" y="461" id="svg_22" stroke-width="0" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">2. r1: a + b = 5</text>
+  <path fill="none" d="m220.28692,474.43197l6,-8.97926l6,8.97926l-3,0l0,9.02247l-6,0l0,-9.02247l-3,0z" id="svg_23" stroke="#000" transform="rotate(-138.287 226.287 474.454)"/>
+  <line fill="none" stroke="#000" x1="112" y1="520" x2="111" y2="534" id="svg_28" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke="#000" x1="150" y1="518" x2="151" y2="533" id="svg_29" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke="#000" x1="199" y1="520" x2="195" y2="531" id="svg_30" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke="#000" x1="251" y1="517" x2="249" y2="536" id="svg_31" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke="#000" x1="289" y1="517" x2="293" y2="540" id="svg_32" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <text fill="#000" x="30" y="131" id="svg_33" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">A</text>
+  <text fill="#000" x="718" y="542" id="svg_34" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">B</text>
+  <line fill="none" stroke="#000" x1="53" y1="344" x2="584" y2="345" id="svg_43"/>
+  <line fill="none" stroke="#000" x1="569" y1="332" x2="585" y2="349" id="svg_44"/>
+  <line fill="none" stroke="#000" x1="568" y1="362" x2="584" y2="347" id="svg_45"/>
+  <text fill="#000000" stroke="#000000" stroke-width="0" x="610" y="338" id="svg_49" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">2. r2: A &lt;= 3</text>
+  <path fill="none" d="m510.9699,355.9038l6,-13.46556l5.99999,13.46556l-2.99999,0l0,13.53036l-6,0l0,-13.53036l-3,0z" id="svg_50" stroke="#000" transform="rotate(-179.882 516.97 355.936)"/>
+  <text fill="#000000" stroke="#000000" stroke-width="0" x="327" y="107" id="svg_53" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">1. lucro: 4*a + 3.5*b</text>
+  <line fill="none" stroke="#000000" x1="290" y1="551" x2="18" y2="411" id="svg_58" stroke-width="2" stroke-dasharray="5,5"/>
+  <text fill="#000000" x="117" y="571" id="svg_59" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">3. isolucro em (lucro: 4a + 3.5b) = 14 | (a,b) = (0,4) = (2,0)</text>
+  <line fill="none" stroke="#000000" x1="276" y1="430" x2="4" y2="290" id="svg_61" stroke-width="2" stroke-dasharray="5,5"/>
+  <text fill="#000000" x="113" y="293" id="svg_62" stroke-width="2" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">4. lucro otimo em (a,b) = (3, 2)</text>
+  <text fill="#000" stroke-width="2" x="105" y="44" id="svg_63" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">0. Definir variaveis = A e B</text>
  </g>
+
 </svg>
