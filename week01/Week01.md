@@ -7,20 +7,20 @@ Fases iniciais de um estudo de investigação operacional são:
  - e implementação de métodos para a sua resolução
   
 Os passos principais da formulação em programação matemática são: 
- - a *definição das variáveis* do problema, *seguida da* definição do *objetivo e restrições* (estes últimos em qualquer ordem)
+ - a *definição das variáveis* do problema, **seguida da** definição do **objetivo e restrições** (estes últimos em qualquer ordem)
    
-Uma expressão matemática em termos de variáveis x_1, x_2, . . . , x_n diz-se linear se, e só se:
-- puder ser escrita na forma a_1 x_1 + a_2 x_2 + . . .  + a_n x_n, em que a_i são constantes
+Uma expressão matemática em termos de variáveis x_1, x_2,  . . . , x_n diz-se linear se, e só se:
+- puder ser escrita na forma a_1 x_1 + a_2 x_2 +  . . .  + a_n x_n, em que a_i são constantes
   
-Uma igualdade linear em termos de variáveis x_1, x_2, . . . , x_n:
- - pode ser escrita na forma a_1 x_1 + a_2 x_2 + . . .  + a_n x_n *=* b, em que a_i e b são constantes
+Uma igualdade linear em termos de variáveis x_1, x_2,  . . . , x_n:
+ - pode ser escrita na forma a_1 x_1 + a_2 x_2 +  . . .  + a_n x_n **=** b, em que a_i e b são constantes
   
-Uma desigualdade linear em termos de variáveis x_1, x_2, . . . , x_n :
- - pode ser escrita na forma a_1 x_1 + a_2 x_2 + . . .  + a_n x_n *\leq* b ou a_1 x_1 + a_2 x_2 + \ldots + a_n x_n *\geq* b, em que a_i e b são constantes
+Uma desigualdade linear em termos de variáveis x_1, x_2,  . . . , x_n :
+ - pode ser escrita na forma a_1 x_1 + a_2 x_2 +  . . .  + a_n x_n **<=** b ou a_1 x_1 + a_2 x_2 +  . . .  + a_n x_n **>** b, em que a_i e b são constantes
 > Nota: Usamos sempre espacos infintamente diviseis, por isso nao faz sentido a restricao ser < ou > (em contrario de <= e >=)
   
 Num problema de otimização linear: 
- - tenta-se *maximizar (ou minimizar) uma função* linear das variáveis de decisão, sujeito a uma série de equações ou desigualdades lineares, *em que cada variável pode assumir valores de um conjunto contínuo* especificado
+ - tenta-se **maximizar (ou minimizar) uma função** linear das variáveis de decisão, sujeito a uma série de equações ou desigualdades lineares, em que **cada variável pode assumir valores de um conjunto contínuo** especificado
   
 Uma solução admissível de um problema de otimização linear:
  - satisfaz todas as restrições do problema
