@@ -38,10 +38,12 @@ Um problema de otimização linear:
 ## PL 01
 
 1. Ex 01: Usamos computacao grafica e fazemos a programacao matematica em pl1/ex01.mod
-... 0. Para fazer o primeiro exercicios, primeiro definimos as variaveis
-... 1. Definimos o objectivo 
-... 2. Para completarmos os graficos com as restricoes (devem ser todas lineares)
-... 3. Defninmos a linha de isolucro 
-... 4. Por fim deslocamos a linha de isolucro para chegar ao objectivo otimo
+
+   - .0. Para fazer o primeiro exercicios, primeiro definimos as variaveis
+   - .1. Definimos o objectivo 
+   - .2. Para completarmos os graficos com as restricoes (devem ser todas lineares)
+   - .3. Defninmos a linha de isolucro 
+   - .4. Por fim deslocamos a linha de isolucro para chegar ao objectivo otimo
+
 ![ex01](images/ex01.svg)
 
